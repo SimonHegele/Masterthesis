@@ -1,5 +1,10 @@
 # Masterthesis
 
-My master thesis including supplementary material.
+# Hybrid Transcriptome Assembly: <br>
+# Review, Benchmark and Application to the Transcriptome of the Cave Salamander
 
-## Topic: Benchmark of methods for hybrid transcriptome assembly and application to the olm
+Includes:
+- Thesis document
+- Corresponding LaTeX project with settings.json-file for compilation with VS Code LaTeX workshop
+- Supplementary data (Additional figures, data tables, jupyter-notebooks, ... )
+- Defense presentation
