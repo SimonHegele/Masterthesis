@@ -1,7 +1,6 @@
 # Masterthesis
 
-# Hybrid Transcriptome Assembly: <br>
-# Review, Benchmark and Application to the Transcriptome of the Cave Salamander
+## Hybrid Transcriptome Assembly: Review, Benchmark and Application to the Transcriptome of the Cave Salamander
 
 Includes:
 - Thesis document
